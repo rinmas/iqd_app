@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "227690202634",
+    "firebase_url": "https://iqdapp-default-rtdb.firebaseio.com",
+    "project_id": "iqdapp",
+    "storage_bucket": "iqdapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227690202634:android:158e7dd31b18edc90cc1f3",
+        "android_client_info": {
+          "package_name": "com.example.iqdapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhic_hE4BExfDLtbVrnvur6F2d929G2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
