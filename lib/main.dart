@@ -7,5 +7,6 @@ void main() async {
 
   // await Firebase.initializeApp(); // 🔹 Commented out Firebase init
 
+  //testing git
   runApp(const Launcher());
 }
